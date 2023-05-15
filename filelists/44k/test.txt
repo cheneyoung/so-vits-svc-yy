@@ -1,0 +1,10 @@
+dataset/44k/DL/DL_7_329.700_333.600.wav
+dataset/44k/DL/DL_1_411.000_418.500.wav
+dataset/44k/LDH/LDH_14_463.800_466.200.wav
+dataset/44k/LDH/LDH_32_119.400_124.800.wav
+dataset/44k/ZCX/ZCX_7_1555.200_1569.300.wav
+dataset/44k/ZCX/ZCX_2_1336.200_1343.400.wav
+dataset/44k/RXQ/RXQ_13_88.800_90.000.wav
+dataset/44k/RXQ/RXQ_7_463.800_465.000.wav
+dataset/44k/LJR/LJR_16_68.700_70.200.wav
+dataset/44k/LJR/LJR_23_520.500_525.900.wav
